@@ -1,8 +1,8 @@
 # Spotify - Imersão Front-End 2ª Edição
-
-## O objetivo é criar ao longo das aulas a pagina inicial do Spotify usando HTML, CSS e JavaScript
-
 Este é um projeto de clone do Spotify desenvolvido durante a Imersão da Alura. O objetivo é praticar e aprimorar habilidades em **HTML**, **CSS** e **JavaScript**.
+
+![1738358710534](https://github.com/user-attachments/assets/3d74653a-2848-462f-bae1-39b55fcda0c2)
+
 
 ## 🚀 Tecnologias Utilizadas
 
