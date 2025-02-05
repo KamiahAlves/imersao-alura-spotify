@@ -1,0 +1,12 @@
+:root{
+    /* FONT */
+    --font-dm-sans:"DM Sans", sans-serif;
+
+    /* COLORS */
+    --bg-icon:#131313;
+    --bg-arrow-color:rgba(0,0,0,7)
+}
+
+/* temos tambem o arquivo vars.css para colocar opções que podem ser alteradas como cores de botoes, fontes, ou seja, itens que são repetidos muitas vezes como no codigo que usamos o root: para configurar a font e só chamamos ela na tag body e não em todas as tags*/
+
+/* também podemos apenas alterar o tipo da fonte, cor e afins aqui na variavel e ela será alterada em todo o código, ao inves de mudar em cada tag, uma por uma */
